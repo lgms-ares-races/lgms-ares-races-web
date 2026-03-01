@@ -1,6 +1,6 @@
 ---
 title: "Quick Links"
-nav_order: 1
+nav_order: 7
 collapse: false
 ---
 # Quick Links
