@@ -16,6 +16,8 @@ nav_order: 1
 
 ---
 
+<!-- TOC -->
+
 ## Who We Are
 
 We are Los Gatos & Monte Sereno area residents who have Amateur Radio (a.k.a. ham) licenses. We volunteer our time and radio equipment to provide emergency radio communications in times of declared local emergencies, on special occasions, and in practice exercises.
