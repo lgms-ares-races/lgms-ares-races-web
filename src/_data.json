@@ -1,0 +1,14 @@
+{
+  "lang": "en",
+  "layout": "page.njk",
+  "metas": {
+    "title": "=title",
+    "site": "LG/MS CERT-ARES-RACES",
+    "lang": "en",
+    "description": "=description"
+  },
+  "top_links": [
+  ],
+  "nav_links": [
+  ]
+}
