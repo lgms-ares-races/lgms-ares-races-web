@@ -6,7 +6,7 @@ collapse: false
 # Quick Links
 
 ## County ARES-RACES Resources
-- [Homepage](https://www.scc-ares-races.org/aresraces.htm)
+- [Homepage](https://www.scc-ares-races.org/)
 - [Events](https://www.scc-ares-races.org/activities/events.php)
 - [Discussion Groups (subgroups list)](https://www.scc-ares-races.org/about/email-lists)
 

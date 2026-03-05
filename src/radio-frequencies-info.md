@@ -19,75 +19,50 @@ nav_order: 1
 ### Local Controlled Channels
 
 **Resource Net** (go here first in an emergency):
+| Repeater | Frequency | Offset | Tone |
+| --- | --- | --- | --- | 
+| W6PIY-2 | 147.390 MHz | Positive | 151.4 Hz CTCSS/PL (Set for Tx and Rx) | 
 
-- **W6PIY-2**, 2 meter band
-  - 147.390 MHz, + offset, 151.4 Hz CTCSS/PL (which should be set for both Transmit and Receive)
-
-Sometimes the 2 meter channel is linked to W6PIY's other channels (on other bands). For the full list of channels, see: [http://www.wvara.org/onair.html](http://www.wvara.org/onair.html)
+Sometimes the 2 meter channel is linked to W6PIY's other channels (on other bands). [Full list of W6PIY channels](https://wvara.org/wordpress/repeaters/)
 
 **Command Net** (go to this repeater as appropriate):  
-**W6PIY-7 Repeater**, 70 cm band
-> 441.350 MHz, + offset, 88.5 Hz CTCSS/PL tone
+| Repeater | Frequency | Offset | Tone |
+| --- | --- | --- | --- | 
+| W6PIY-7 | 441.350 MHz | Positive | 88.5 Hz CTCSS/PL|
 
 ### Local Tactical Channels
+**Note:** Tac 1: Primary VHF - is the working channel after checking-in to the Resource Net, when you are deployed
 
-**Tac 1: Primary VHF Tactical Channel** (the working channel after checking-in to the Resource Net, when you are deployed):
+| Channel | Type | Frequency | Tone |
+| --- | --- | --- | --- |
+| **Tac 1**: Primary VHF | Simplex | 147.480 | 88.5 Hz CTCSS/PL tone |
+| **Tac 2**: Secondary VHF & LG-MS CERT VHF Tactical Channel | Simplex | 146.595 | 88.5 Hz CTCSS/PL tone |
+| **Tac 3**: Primary UHF | Simplex | 441.000 | 88.5 Hz CTCSS/PL tone |
 
-> 147.480 MHz, Simplex, 88.5 Hz CTCSS/PL tone
-
-**Tac 2: Secondary VHF Tactical Channel & LG-MS CERT VHF Tactical Channel**:
-> 146.595 MHz, Simplex, 88.5 Hz CTCSS/PL tone
-
-**Tac 3: Primary UHF Tactical Channel**:
-> 441.000 MHz, Simplex, 88.5 Hz CTCSS/PL tone
 
 ### County-wide Hospital Net (Controlled Channels)
 
-**Primary Voice Channel: N6NFI**:
-> 145.230 MHz, - offset, 100 Hz CTCSS/PL tone
-
-**Alternate Voice Channel**:
-
-> *(Not specified)*
-
----
+| Channel | Repeater | Frequency | offset | tone |
+| --- | --- | --- | --- | --- |
+| Primary Voice | N6NFI | 145.230MHz | Negative | 100 Hz CTCSS/PL |
+| Alternate Voice | N/A | N/A | | |
 
 ## PACKET DATA *(within Santa Clara County)*
-
-*For details, see: [http://www.scc-ares-races.org/packet.html](http://www.scc-ares-races.org/packet.html)*
+[Details on scc-ares-races](https://www.scc-ares-races.org/services/data/bbs)
 
 *For list of Tactical Call signs, see the attached file at the bottom of this page.*
 
-**Primary Node** for LG/MS (W1XSC):
-
-> 145.750 MHz
-
-**Alternate Node** for LG/MS (W4XSC):
-
-> 145.690 MHz
-
-**Primary Hospital Net Node** for ECH LG (W2XSC):
-
-> 145.690 MHz
-
-**Alternate Hospital Net Node** for ECH LG (W4XSC):
-
-> 145.730 MHz
+| Node | Callsign | Frequency |
+| --- | --- | --- |
+| LG/MS Primary | W1XSC | 145.750MHz |
+| LG/MS Alternate | W4XSC | 145.690MHz |
+| ECH LG Hospital Net Primary | W1XSC | 145.750MHz |
+| ECH LG Hospital Net Alternate | W4XSC | 145.690MHz |
 
 ### List of Tactical Addresses for Packet Messages associated with Los Gatos/Monte Sereno
 
 - [All Tactical Calls for LG/MS](https://www.scc-ares-races.org/activities/showtacticalcalls.php?agency=6)
 
----
-
 ## Santa Clara County ARES-RACES Band Plans
-
-See: [http://www.scc-ares-races.org/](http://www.scc-ares-races.org/)
-
-### Amateur Radio Channel Assignments (Band Plan)
-
-**Voice** channels:
-- [http://www.scc-ares-races.org/freqs/freqs.html](http://www.scc-ares-races.org/freqs/freqs.html)
-
-**Packet Message** channels:
-- [http://www.scc-ares-races.org/freqs/packet-freqs.html](http://www.scc-ares-races.org/freqs/packet-freqs.html)
+- [**Voice**](http://www.scc-ares-races.org/freqs/freqs.html)
+- [**Packet**](https://www.scc-ares-races.org/operations/packet/bbs)

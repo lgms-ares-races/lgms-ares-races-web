@@ -11,8 +11,6 @@ nav_order: 1
 <img src="../../files/ares-logo.svg" width="120" height="120">
 <img src="../../files/races-logo.webp" width="120" height="120">
 
-[www.losgatosca.gov/2026/Emergency-Preparedness](https://www.losgatosca.gov/2026/Emergency-Preparedness)
-
 ---
 
 <!-- TOC -->
@@ -116,13 +114,13 @@ Our leadership has individually assigned functional areas of responsibility. Eac
 ---
 
 ## Additional References
+- [Los Gatos Emergency Preparedness](https://www.losgatosca.gov/2026/Emergency-Preparedness)
 - [Los Gatos Emergency Operation Plan](https://ca-losgatos2.civicplus.com/DocumentCenter/View/15967) (last revised 2015)
 - [Cal OES ACS overview and rules](https://www.caloes.ca.gov/cal-oes/about-cal-oes/)
 - [FEMA RACES overview and rules](https://www.qsl.net/races/what.html)
 - [FEMA](https://www.fema.gov/)
 - [SCCo Fire CERT class](https://www.sccfd.org/education-and-preparedness-overview/emergency-preparedness/cert/)
 - [SCCo Fire Emergency Preparedness](https://www.sccfd.org/education-and-preparedness-overview/emergency-preparedness/)
-- [Emergency Preparation within LG/MS](https://www.losgatosca.gov/2026/Emergency-Preparedness)
 - [LG/MS CERT](https://www.losgatosca.gov/152/CERT-Members)
 - [LG/MS DART](https://www.losgatosca.gov/2641/DART)
 - [Emergency Response in Los Gatos-Monte Sereno](https://www.losgatosca.gov/2827/Police-Services)

@@ -11,7 +11,7 @@ In the context of what follows, **Activation** is the trigger for your participa
 
 This section will contain our plan for implementing the [**Town of Los Gatos Emergency Operation Plan (last revised 2015)**](https://ca-losgatos2.civicplus.com/DocumentCenter/View/15967/Los-Gatos-EOP-final-1-21-2016)  
 
-This is a [**General guide of the ARRL for Activation and Deployment**](https://www.scc-ares-races.org/SCCARESquickresourceguideA.pdf)in an Emergency.
+This is a [**General guide of the ARRL for Activation and Deployment**](https://www.scc-ares-races.org/SCCARESquickresourceguideA.pdf) in an Emergency.
 
 This is the [**Santa Clara County EMS Communications System Guide**](https://ems.santaclaracounty.gov/Documents/pcm800/818.pdf)
 

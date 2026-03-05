@@ -13,4 +13,4 @@ On the fourth Wednesday of each month at 7:00p, the 11 Hospitals that form the S
 
 Our LG/MS Emergency Communications group operates the Emergency Radio station for Hospital Net drills and in actual emergencies. Los Gatos/Monte Sereno Net Control for Hospital Net for the May check-in (4th Wednesday) each year.
 
-A link to [the complete schedule for HospitalNet](https://www.scc-ares-races.org/hospital/HospitalNetSchedule.html). A link to [the HospitalNet Script](https://www.scc-ares-races.org/hospital/docs/HospitalNetScript_v190121a.pdf).
+A link to [the complete schedule for HospitalNet](https://www.scc-ares-races.org/training/nets/hospital-net). A link to [the HospitalNet Script](https://www.scc-ares-races.org/training/nets/hospital-net/HospitalNetScript_v20260128.pdf).
