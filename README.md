@@ -39,3 +39,13 @@ For new images, you may want to convert images to the webp format as that is mor
 ## Markdown syntax
 For the most part, you can follow any markdown guide on what syntax is supported such as [Markdown Guide](https://www.markdownguide.org/basic-syntax/).  
 There are a few special features from the lumocs theme we are using, [see documentation](https://lumocs.56k.guru/usage/markdown/)
+
+## Testing changes locally
+If you'd like to test your changes on your own mac/windows/linux machine before pushing to github, you will need to [install deno](https://docs.deno.com/runtime/#install-deno).  
+Then inside the folder where you checked out the repo, you just need to run `deno task serve`, then that will eventually give some output like this
+```
+  Server started at:
+  http://localhost:8000/ (local)
+  http://192.168.1.20:8000/ (network)
+```
+Then you can open your browser to that link and see your changes. If you keep the command running, then your browser will automatically refresh as you save edits to the files you are working on.
