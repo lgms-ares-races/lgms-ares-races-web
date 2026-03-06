@@ -11,10 +11,10 @@ You can use the built-in github web editor or their vscode web IDE to make chang
 When a pull request is opened against this repo, a dev version of the website will be created. the cloudflare-workers-and-pages bot will post a comment in your pull request with a link to the dev build with your changes, please open the link and verify your updates look correct.
 
 ## Updating existing pages
-To update an exising page, you will need to find which markdown file in the src folder corresponds to the page you want to update. Usually the filename will be related to the page name, for example the [Nets](https://lgmsar.org/nets/) page is managed by the file [src/nets.md](src/nets.md). 
+To update an existing page, you will need to find which markdown file in the src folder corresponds to the page you want to update. Usually the filename will be related to the page name, for example the [Nets](https://lgmsar.org/nets/) page is managed by the file [src/nets.md](src/nets.md). 
 
 ## Add new page
-First, you need to decide where your page will go, will it be a top level page or nested under an existing page.
+First, you need to decide where your page will go, will it be a top level page or nested under an existing page. You may want to use an existing page for a quick reference.
 For a new page, create a .md file in the src folder. The name of the file will relate to the new url, so if you make a file called src/cool-page.md then you will make a new page at lgmsar.org/cool-page.  
 
 At the top of all the markdown files, you need to add something like this
